@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/cronjob_receive_adapter@sha256:0067924e5089e9fe8d8c788d3030b2361471560734b75ef6baf9eaef8b6deaca
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/cronjob_receive_adapter@sha256:dc51ff713fadee0a88da50e12a8215ba93f653fc8379b55792d6b79125e12b1a
 MAINTAINER coder
